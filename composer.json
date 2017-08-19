@@ -1,0 +1,21 @@
+{
+    "name": "jun/ishop",
+    "description": "The first project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergo",
+            "email": "malxao666@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "components",
+            "models",
+            "errors"
+        ]
+    }
+}

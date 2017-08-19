@@ -1,0 +1,11 @@
+# phpstorm project files
+.idea/*
+
+# content folder
+upload/*
+
+# errors handling functional(is being developed)
+errors/*
+
+# server configuration
+*.htaccess
